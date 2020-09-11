@@ -1,0 +1,133 @@
+17. Write a Java program to add two binary numbers. Go to the editor
+Input Data:
+Input first binary number: 10
+Input second binary number: 11
+Expected Output
+
+Sum of two binary numbers: 101
+Click me to see the solution
+
+18. Write a Java program to multiply two binary numbers. Go to the editor
+Input Data:
+Input the first binary number: 10
+Input the second binary number: 11
+Expected Output
+
+Product of two binary numbers: 110 
+Click me to see the solution
+
+19. Write a Java program to convert a decimal number to binary number. Go to the editor
+Input Data:
+Input a Decimal Number : 5
+Expected Output
+
+Binary number is: 101 
+Click me to see the solution
+
+20. Write a Java program to convert a decimal number to hexadecimal number. Go to the editor
+Input Data:
+Input a decimal number: 15
+Expected Output
+
+Hexadecimal number is : F 
+Click me to see the solution
+
+21. Write a Java program to convert a decimal number to octal number. Go to the editor
+Input Data:
+Input a Decimal Number: 15
+Expected Output
+
+Octal number is: 17  
+Click me to see the solution
+
+22. Write a Java program to convert a binary number to decimal number. Go to the editor
+Input Data:
+Input a binary number: 100
+Expected Output
+
+Decimal Number: 4 
+Click me to see the solution
+
+23. Write a Java program to convert a binary number to hexadecimal number. Go to the editor
+Input Data:
+Input a Binary Number: 1101
+Expected Output
+
+HexaDecimal value: D
+Click me to see the solution
+
+24. Write a Java program to convert a binary number to a Octal number. Go to the editor
+Input Data:
+Input a Binary Number: 111
+Expected Output
+
+Octal number: 7 
+Click me to see the solution
+
+25. Write a Java program to convert a octal number to a decimal number. Go to the editor
+Input Data:
+Input any octal number: 10
+Expected Output
+
+Equivalent decimal number: 8
+Click me to see the solution
+
+26. Write a Java program to convert a octal number to a binary number. Go to the editor
+Input Data:
+Input any octal number: 7
+Expected Output
+
+Equivalent binary number: 111 
+Click me to see the solution
+
+27. Write a Java program to convert a octal number to a hexadecimal number. Go to the editor
+Input Data:
+Input a octal number : 100
+Expected Output
+
+Equivalent hexadecimal number: 40
+Click me to see the solution
+
+28. Write a Java program to convert a hexadecimal to a decimal number. Go to the editor
+Input Data:
+Input a hexadecimal number: 25
+Expected Output
+
+Equivalent decimal number is: 37
+Click me to see the solution
+
+29. Write a Java program to convert a hexadecimal to a binary number. Go to the editor
+Input Data:
+Enter Hexadecimal Number : 37
+Expected Output
+
+Equivalent Binary Number is: 110111
+Click me to see the solution
+
+30. Write a Java program to convert a hexadecimal to a octal number. Go to the editor
+Input Data:
+Input a hexadecimal number: 40
+Expected Output
+
+Equivalent of octal number is: 100 
+Click me to see the solution
+
+42. Write a Java program to input and display your password. Go to the editor
+Expected Output
+
+Input your Password:                                                    
+Your password was: abc@123
+Click me to see the solution
+
+45. Write a Java program to find the size of a specified file. Go to the editor
+Sample Output:
+
+/home/students/abc.txt  : 0 bytes                                      
+/home/students/test.txt : 0 bytes 
+Click me to see the solution
+
+47. Write a Java program to display the current date time in specific format. Go to the editor
+Sample Output:
+
+Now: 2017/06/16 08:52:03.066 
+Click me to see the solution
